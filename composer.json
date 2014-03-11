@@ -1,0 +1,16 @@
+{
+    "name": "hax/aop-php-lib",
+    "description": "A library replacement of AOP PECL extension",
+    "repositories": [
+        {"type": "vcs", "url": "https://github.com/hax/go-aop-php"}
+    ],
+    "require": {
+        "lisachenko/go-aop-php": "dev-test-intercept-functions"
+    },
+    "authors": [
+        {
+            "name": "HE Shi-Jun",
+            "email": "hax@heshijun.net"
+        }
+    ]
+}
