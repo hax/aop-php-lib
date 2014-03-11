@@ -12,5 +12,8 @@
             "name": "HE Shi-Jun",
             "email": "hax@heshijun.net"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["src/index.php"]
+    }
 }
